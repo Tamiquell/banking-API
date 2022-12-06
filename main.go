@@ -1,6 +1,6 @@
 package main
 
-import "banking-API/app"
+import "github.com/Tamiquell/banking-API/app"
 
 func main() {
 	app.Start()

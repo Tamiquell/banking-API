@@ -1,5 +1,5 @@
-module banking-API
+module github.com/Tamiquell/banking-API
 
-go 1.17
+go 1.19
 
-require github.com/gorilla/mux v1.8.0 // indirect
+require github.com/gorilla/mux v1.8.0
